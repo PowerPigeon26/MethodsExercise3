@@ -1,1 +1,1 @@
-Hi! This project was made to practice creating methods, parsing user input, and printing information to the console.
+Hi! This project was made to practice creating methods, parsing user input, and printing information to the console. The code first print some number in a range to the console. Then the user is asked for some numbers, and the program will give info like whether the number is odd or even. Lastly, a multiplication table is printed to the console based on the user input.
